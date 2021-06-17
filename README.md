@@ -5,7 +5,7 @@ A simple crud using Laravel and VueJs
 ## Installation
 
 ```bash
-git clone https://github.com/crsdngnn/todo-crud.git
+git clone https://github.com/crsdngnn/ordering-system.git
 
 composer install
 
