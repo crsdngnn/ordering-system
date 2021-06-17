@@ -1,6 +1,6 @@
-# Laravel VueJs CRUD
+# Laravel VueJs Ordering System
 
-A simple crud using Laravel and VueJs
+A simple ordering system using Laravel and VueJs
 
 ## Installation
 
